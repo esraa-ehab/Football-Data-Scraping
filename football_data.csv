@@ -1,4 +1,584 @@
 date,home_team,score,away_team
+22-03-2026,Celta,3 - 4,Alaves
+13-03-2026,Alaves,1 - 1,Villarreal
+08-03-2026,Valencia,3 - 2,Alaves
+27-02-2026,Levante,2 - 0,Alaves
+23-02-2026,Alaves,2 - 2,Girona
+14-02-2026,Sevilla,1 - 1,Alaves
+08-02-2026,Alaves,0 - 2,Getafe
+30-01-2026,Espanol,1 - 2,Alaves
+25-01-2026,Alaves,2 - 1,Betis
+18-01-2026,Ath Madrid,1 - 0,Alaves
+10-01-2026,Villarreal,3 - 1,Alaves
+04-01-2026,Alaves,1 - 1,Oviedo
+20-12-2025,Osasuna,3 - 0,Alaves
+14-12-2025,Alaves,1 - 2,Real Madrid
+06-12-2025,Alaves,1 - 0,Sociedad
+29-11-2025,FC Barcelona,3 - 1,Alaves
+22-11-2025,Alaves,0 - 1,Celta
+08-11-2025,Girona,1 - 0,Alaves
+02-11-2025,Alaves,2 - 1,Espanol
+26-10-2025,Vallecano,1 - 0,Alaves
+20-10-2025,Alaves,0 - 0,Valencia
+05-10-2025,Alaves,3 - 1,Elche
+27-09-2025,Mallorca,1 - 0,Alaves
+24-09-2025,Getafe,1 - 1,Alaves
+20-09-2025,Alaves,1 - 2,Sevilla
+13-09-2025,Athletic Club,0 - 1,Alaves
+30-08-2025,Alaves,1 - 1,Ath Madrid
+22-08-2025,Betis,1 - 0,Alaves
+16-08-2025,Alaves,2 - 1,Levante
+22-03-2026,Real Madrid,3 - 2,Ath Madrid
+14-03-2026,Ath Madrid,1 - 0,Getafe
+07-03-2026,Ath Madrid,3 - 2,Sociedad
+28-02-2026,Oviedo,0 - 1,Ath Madrid
+21-02-2026,Ath Madrid,4 - 2,Espanol
+15-02-2026,Vallecano,3 - 0,Ath Madrid
+08-02-2026,Ath Madrid,0 - 1,Betis
+31-01-2026,Levante,0 - 0,Ath Madrid
+25-01-2026,Ath Madrid,3 - 0,Mallorca
+18-01-2026,Ath Madrid,1 - 0,Alaves
+04-01-2026,Sociedad,1 - 1,Ath Madrid
+21-12-2025,Girona,0 - 3,Ath Madrid
+13-12-2025,Ath Madrid,2 - 1,Valencia
+06-12-2025,Athletic Club,1 - 0,Ath Madrid
+02-12-2025,FC Barcelona,3 - 1,Ath Madrid
+29-11-2025,Ath Madrid,2 - 0,Oviedo
+23-11-2025,Getafe,0 - 1,Ath Madrid
+08-11-2025,Ath Madrid,3 - 1,Levante
+01-11-2025,Ath Madrid,3 - 0,Sevilla
+27-10-2025,Betis,0 - 2,Ath Madrid
+18-10-2025,Ath Madrid,1 - 0,Osasuna
+05-10-2025,Celta,1 - 1,Ath Madrid
+27-09-2025,Ath Madrid,5 - 2,Real Madrid
+24-09-2025,Ath Madrid,3 - 2,Vallecano
+21-09-2025,Mallorca,1 - 1,Ath Madrid
+13-09-2025,Ath Madrid,2 - 0,Villarreal
+30-08-2025,Alaves,1 - 1,Ath Madrid
+23-08-2025,Ath Madrid,1 - 1,Elche
+17-08-2025,Espanol,2 - 1,Ath Madrid
+22-03-2026,Athletic Club,2 - 1,Betis
+14-03-2026,Girona,3 - 0,Athletic Club
+07-03-2026,Athletic Club,0 - 1,FC Barcelona
+28-02-2026,Vallecano,1 - 1,Athletic Club
+20-02-2026,Athletic Club,2 - 1,Elche
+15-02-2026,Oviedo,1 - 2,Athletic Club
+08-02-2026,Athletic Club,4 - 2,Levante
+01-02-2026,Athletic Club,1 - 1,Sociedad
+24-01-2026,Sevilla,2 - 1,Athletic Club
+17-01-2026,Mallorca,3 - 2,Athletic Club
+03-01-2026,Osasuna,1 - 1,Athletic Club
+22-12-2025,Athletic Club,1 - 2,Espanol
+14-12-2025,Celta,2 - 0,Athletic Club
+06-12-2025,Athletic Club,1 - 0,Ath Madrid
+03-12-2025,Athletic Club,0 - 3,Real Madrid
+29-11-2025,Levante,0 - 2,Athletic Club
+22-11-2025,FC Barcelona,4 - 0,Athletic Club
+09-11-2025,Athletic Club,1 - 0,Oviedo
+01-11-2025,Sociedad,3 - 2,Athletic Club
+25-10-2025,Athletic Club,0 - 1,Getafe
+19-10-2025,Elche,0 - 0,Athletic Club
+04-10-2025,Athletic Club,2 - 1,Mallorca
+27-09-2025,Villarreal,1 - 0,Athletic Club
+23-09-2025,Athletic Club,1 - 1,Girona
+20-09-2025,Valencia,2 - 0,Athletic Club
+13-09-2025,Athletic Club,0 - 1,Alaves
+31-08-2025,Betis,1 - 2,Athletic Club
+25-08-2025,Athletic Club,1 - 0,Vallecano
+17-08-2025,Athletic Club,3 - 2,Sevilla
+22-03-2026,Athletic Club,2 - 1,Betis
+15-03-2026,Betis,1 - 1,Celta
+08-03-2026,Getafe,2 - 0,Betis
+01-03-2026,Betis,2 - 2,Sevilla
+21-02-2026,Betis,1 - 1,Vallecano
+15-02-2026,Mallorca,1 - 2,Betis
+08-02-2026,Ath Madrid,0 - 1,Betis
+01-02-2026,Betis,2 - 1,Valencia
+25-01-2026,Alaves,2 - 1,Betis
+17-01-2026,Betis,2 - 0,Villarreal
+10-01-2026,Oviedo,1 - 1,Betis
+04-01-2026,Real Madrid,5 - 1,Betis
+21-12-2025,Betis,4 - 0,Getafe
+15-12-2025,Vallecano,0 - 0,Betis
+06-12-2025,Betis,3 - 5,FC Barcelona
+30-11-2025,Sevilla,0 - 2,Betis
+23-11-2025,Betis,1 - 1,Girona
+09-11-2025,Valencia,1 - 1,Betis
+02-11-2025,Betis,3 - 0,Mallorca
+27-10-2025,Betis,0 - 2,Ath Madrid
+18-10-2025,Villarreal,2 - 2,Betis
+05-10-2025,Espanol,1 - 2,Betis
+28-09-2025,Betis,2 - 0,Osasuna
+19-09-2025,Betis,3 - 1,Sociedad
+14-09-2025,Levante,2 - 2,Betis
+31-08-2025,Betis,1 - 2,Athletic Club
+27-08-2025,Celta,1 - 1,Betis
+22-08-2025,Betis,1 - 0,Alaves
+18-08-2025,Elche,1 - 1,Betis
+22-03-2026,Celta,3 - 4,Alaves
+15-03-2026,Betis,1 - 1,Celta
+06-03-2026,Celta,1 - 2,Real Madrid
+01-03-2026,Girona,1 - 2,Celta
+22-02-2026,Celta,2 - 0,Mallorca
+14-02-2026,Espanol,2 - 2,Celta
+06-02-2026,Celta,1 - 2,Osasuna
+01-02-2026,Getafe,0 - 0,Celta
+25-01-2026,Sociedad,3 - 1,Celta
+18-01-2026,Celta,3 - 0,Vallecano
+12-01-2026,Sevilla,0 - 1,Celta
+03-01-2026,Celta,4 - 1,Valencia
+20-12-2025,Oviedo,0 - 0,Celta
+14-12-2025,Celta,2 - 0,Athletic Club
+07-12-2025,Real Madrid,0 - 2,Celta
+30-11-2025,Celta,0 - 1,Espanol
+22-11-2025,Alaves,0 - 1,Celta
+09-11-2025,Celta,2 - 4,FC Barcelona
+02-11-2025,Levante,1 - 2,Celta
+26-10-2025,Osasuna,2 - 3,Celta
+19-10-2025,Celta,1 - 1,Sociedad
+05-10-2025,Celta,1 - 1,Ath Madrid
+28-09-2025,Elche,2 - 1,Celta
+21-09-2025,Vallecano,1 - 1,Celta
+14-09-2025,Celta,1 - 1,Girona
+31-08-2025,Celta,1 - 1,Villarreal
+27-08-2025,Celta,1 - 1,Betis
+23-08-2025,Mallorca,1 - 1,Celta
+17-08-2025,Celta,0 - 2,Getafe
+21-03-2026,Elche,2 - 1,Mallorca
+14-03-2026,Real Madrid,4 - 1,Elche
+08-03-2026,Villarreal,2 - 1,Elche
+01-03-2026,Elche,2 - 2,Espanol
+20-02-2026,Athletic Club,2 - 1,Elche
+13-02-2026,Elche,0 - 0,Osasuna
+07-02-2026,Sociedad,3 - 1,Elche
+31-01-2026,Elche,1 - 3,FC Barcelona
+23-01-2026,Levante,3 - 2,Elche
+19-01-2026,Elche,2 - 2,Sevilla
+10-01-2026,Valencia,1 - 1,Elche
+03-01-2026,Elche,1 - 3,Villarreal
+21-12-2025,Elche,4 - 0,Vallecano
+13-12-2025,Mallorca,3 - 1,Elche
+07-12-2025,Elche,3 - 0,Girona
+28-11-2025,Getafe,1 - 0,Elche
+23-11-2025,Elche,2 - 2,Real Madrid
+07-11-2025,Elche,1 - 1,Sociedad
+02-11-2025,FC Barcelona,3 - 1,Elche
+25-10-2025,Espanol,1 - 0,Elche
+19-10-2025,Elche,0 - 0,Athletic Club
+05-10-2025,Alaves,3 - 1,Elche
+28-09-2025,Elche,2 - 1,Celta
+25-09-2025,Osasuna,1 - 1,Elche
+21-09-2025,Elche,1 - 0,Oviedo
+12-09-2025,Sevilla,2 - 2,Elche
+29-08-2025,Elche,2 - 0,Levante
+23-08-2025,Ath Madrid,1 - 1,Elche
+18-08-2025,Elche,1 - 1,Betis
+21-03-2026,Espanol,1 - 2,Getafe
+15-03-2026,Mallorca,2 - 1,Espanol
+09-03-2026,Espanol,1 - 1,Oviedo
+01-03-2026,Elche,2 - 2,Espanol
+21-02-2026,Ath Madrid,4 - 2,Espanol
+14-02-2026,Espanol,2 - 2,Celta
+09-02-2026,Villarreal,4 - 1,Espanol
+30-01-2026,Espanol,1 - 2,Alaves
+24-01-2026,Valencia,3 - 2,Espanol
+16-01-2026,Espanol,0 - 2,Girona
+11-01-2026,Levante,1 - 1,Espanol
+03-01-2026,Espanol,0 - 2,FC Barcelona
+22-12-2025,Athletic Club,1 - 2,Espanol
+13-12-2025,Getafe,0 - 1,Espanol
+07-12-2025,Espanol,1 - 0,Vallecano
+30-11-2025,Celta,0 - 1,Espanol
+24-11-2025,Espanol,2 - 1,Sevilla
+08-11-2025,Espanol,0 - 2,Villarreal
+02-11-2025,Alaves,2 - 1,Espanol
+25-10-2025,Espanol,1 - 0,Elche
+17-10-2025,Oviedo,0 - 2,Espanol
+05-10-2025,Espanol,1 - 2,Betis
+26-09-2025,Girona,0 - 0,Espanol
+23-09-2025,Espanol,2 - 2,Valencia
+20-09-2025,Real Madrid,2 - 0,Espanol
+15-09-2025,Espanol,3 - 2,Mallorca
+31-08-2025,Espanol,1 - 0,Osasuna
+24-08-2025,Sociedad,2 - 2,Espanol
+17-08-2025,Espanol,2 - 1,Ath Madrid
+22-03-2026,FC Barcelona,1 - 0,Vallecano
+15-03-2026,FC Barcelona,5 - 2,Sevilla
+07-03-2026,Athletic Club,0 - 1,FC Barcelona
+28-02-2026,FC Barcelona,4 - 1,Villarreal
+22-02-2026,FC Barcelona,3 - 0,Levante
+16-02-2026,Girona,2 - 1,FC Barcelona
+07-02-2026,FC Barcelona,3 - 0,Mallorca
+31-01-2026,Elche,1 - 3,FC Barcelona
+25-01-2026,FC Barcelona,3 - 0,Oviedo
+18-01-2026,Sociedad,2 - 1,FC Barcelona
+03-01-2026,Espanol,0 - 2,FC Barcelona
+21-12-2025,Villarreal,0 - 2,FC Barcelona
+13-12-2025,FC Barcelona,2 - 0,Osasuna
+06-12-2025,Betis,3 - 5,FC Barcelona
+02-12-2025,FC Barcelona,3 - 1,Ath Madrid
+29-11-2025,FC Barcelona,3 - 1,Alaves
+22-11-2025,FC Barcelona,4 - 0,Athletic Club
+09-11-2025,Celta,2 - 4,FC Barcelona
+02-11-2025,FC Barcelona,3 - 1,Elche
+26-10-2025,Real Madrid,2 - 1,FC Barcelona
+18-10-2025,FC Barcelona,2 - 1,Girona
+05-10-2025,Sevilla,4 - 1,FC Barcelona
+28-09-2025,FC Barcelona,2 - 1,Sociedad
+25-09-2025,Oviedo,1 - 3,FC Barcelona
+21-09-2025,FC Barcelona,3 - 0,Getafe
+14-09-2025,FC Barcelona,6 - 0,Valencia
+31-08-2025,Vallecano,1 - 1,FC Barcelona
+23-08-2025,Levante,2 - 3,FC Barcelona
+16-08-2025,Mallorca,0 - 3,FC Barcelona
+21-03-2026,Espanol,1 - 2,Getafe
+14-03-2026,Ath Madrid,1 - 0,Getafe
+08-03-2026,Getafe,2 - 0,Betis
+02-03-2026,Real Madrid,0 - 1,Getafe
+22-02-2026,Getafe,0 - 1,Sevilla
+14-02-2026,Getafe,2 - 1,Villarreal
+08-02-2026,Alaves,0 - 2,Getafe
+01-02-2026,Getafe,0 - 0,Celta
+26-01-2026,Girona,1 - 1,Getafe
+18-01-2026,Getafe,0 - 1,Valencia
+09-01-2026,Getafe,1 - 2,Sociedad
+02-01-2026,Vallecano,1 - 1,Getafe
+21-12-2025,Betis,4 - 0,Getafe
+13-12-2025,Getafe,0 - 1,Espanol
+06-12-2025,Villarreal,2 - 0,Getafe
+28-11-2025,Getafe,1 - 0,Elche
+23-11-2025,Getafe,0 - 1,Ath Madrid
+09-11-2025,Mallorca,1 - 0,Getafe
+31-10-2025,Getafe,2 - 1,Girona
+25-10-2025,Athletic Club,0 - 1,Getafe
+19-10-2025,Getafe,0 - 1,Real Madrid
+03-10-2025,Osasuna,2 - 1,Getafe
+27-09-2025,Getafe,1 - 1,Levante
+24-09-2025,Getafe,1 - 1,Alaves
+21-09-2025,FC Barcelona,3 - 0,Getafe
+13-09-2025,Getafe,2 - 0,Oviedo
+29-08-2025,Valencia,3 - 0,Getafe
+25-08-2025,Sevilla,1 - 2,Getafe
+17-08-2025,Celta,0 - 2,Getafe
+21-03-2026,Osasuna,1 - 0,Girona
+14-03-2026,Girona,3 - 0,Athletic Club
+07-03-2026,Levante,1 - 1,Girona
+01-03-2026,Girona,1 - 2,Celta
+23-02-2026,Alaves,2 - 2,Girona
+16-02-2026,Girona,2 - 1,FC Barcelona
+08-02-2026,Sevilla,1 - 1,Girona
+31-01-2026,Oviedo,1 - 0,Girona
+26-01-2026,Girona,1 - 1,Getafe
+16-01-2026,Espanol,0 - 2,Girona
+10-01-2026,Girona,1 - 0,Osasuna
+04-01-2026,Mallorca,1 - 2,Girona
+21-12-2025,Girona,0 - 3,Ath Madrid
+12-12-2025,Sociedad,1 - 2,Girona
+07-12-2025,Elche,3 - 0,Girona
+30-11-2025,Girona,1 - 1,Real Madrid
+23-11-2025,Betis,1 - 1,Girona
+08-11-2025,Girona,1 - 0,Alaves
+31-10-2025,Getafe,2 - 1,Girona
+25-10-2025,Girona,3 - 3,Oviedo
+18-10-2025,FC Barcelona,2 - 1,Girona
+04-10-2025,Girona,2 - 1,Valencia
+26-09-2025,Girona,0 - 0,Espanol
+23-09-2025,Athletic Club,1 - 1,Girona
+20-09-2025,Girona,0 - 4,Levante
+14-09-2025,Celta,1 - 1,Girona
+30-08-2025,Girona,0 - 2,Sevilla
+24-08-2025,Villarreal,5 - 0,Girona
+15-08-2025,Girona,1 - 3,Vallecano
+21-03-2026,Levante,4 - 2,Oviedo
+16-03-2026,Vallecano,1 - 1,Levante
+07-03-2026,Levante,1 - 1,Girona
+27-02-2026,Levante,2 - 0,Alaves
+22-02-2026,FC Barcelona,3 - 0,Levante
+18-02-2026,Levante,0 - 1,Villarreal
+15-02-2026,Levante,0 - 2,Valencia
+08-02-2026,Athletic Club,4 - 2,Levante
+31-01-2026,Levante,0 - 0,Ath Madrid
+23-01-2026,Levante,3 - 2,Elche
+17-01-2026,Real Madrid,2 - 0,Levante
+11-01-2026,Levante,1 - 1,Espanol
+04-01-2026,Sevilla,0 - 3,Levante
+20-12-2025,Levante,1 - 1,Sociedad
+08-12-2025,Osasuna,2 - 0,Levante
+29-11-2025,Levante,0 - 2,Athletic Club
+21-11-2025,Valencia,1 - 0,Levante
+08-11-2025,Ath Madrid,3 - 1,Levante
+02-11-2025,Levante,1 - 2,Celta
+26-10-2025,Mallorca,1 - 1,Levante
+19-10-2025,Levante,0 - 3,Vallecano
+04-10-2025,Oviedo,0 - 2,Levante
+27-09-2025,Getafe,1 - 1,Levante
+23-09-2025,Levante,1 - 4,Real Madrid
+20-09-2025,Girona,0 - 4,Levante
+14-09-2025,Levante,2 - 2,Betis
+29-08-2025,Elche,2 - 0,Levante
+23-08-2025,Levante,2 - 3,FC Barcelona
+16-08-2025,Alaves,2 - 1,Levante
+21-03-2026,Elche,2 - 1,Mallorca
+15-03-2026,Mallorca,2 - 1,Espanol
+07-03-2026,Osasuna,2 - 2,Mallorca
+28-02-2026,Mallorca,0 - 1,Sociedad
+22-02-2026,Celta,2 - 0,Mallorca
+15-02-2026,Mallorca,1 - 2,Betis
+07-02-2026,FC Barcelona,3 - 0,Mallorca
+02-02-2026,Mallorca,4 - 1,Sevilla
+25-01-2026,Ath Madrid,3 - 0,Mallorca
+17-01-2026,Mallorca,3 - 2,Athletic Club
+11-01-2026,Vallecano,2 - 1,Mallorca
+04-01-2026,Mallorca,1 - 2,Girona
+19-12-2025,Valencia,1 - 1,Mallorca
+13-12-2025,Mallorca,3 - 1,Elche
+05-12-2025,Oviedo,0 - 0,Mallorca
+29-11-2025,Mallorca,2 - 2,Osasuna
+22-11-2025,Villarreal,2 - 1,Mallorca
+09-11-2025,Mallorca,1 - 0,Getafe
+02-11-2025,Betis,3 - 0,Mallorca
+26-10-2025,Mallorca,1 - 1,Levante
+18-10-2025,Sevilla,1 - 3,Mallorca
+04-10-2025,Athletic Club,2 - 1,Mallorca
+27-09-2025,Mallorca,1 - 0,Alaves
+24-09-2025,Sociedad,1 - 0,Mallorca
+21-09-2025,Mallorca,1 - 1,Ath Madrid
+15-09-2025,Espanol,3 - 2,Mallorca
+30-08-2025,Real Madrid,2 - 1,Mallorca
+23-08-2025,Mallorca,1 - 1,Celta
+16-08-2025,Mallorca,0 - 3,FC Barcelona
+21-03-2026,Osasuna,1 - 0,Girona
+15-03-2026,Sociedad,3 - 1,Osasuna
+07-03-2026,Osasuna,2 - 2,Mallorca
+01-03-2026,Valencia,1 - 0,Osasuna
+21-02-2026,Osasuna,2 - 1,Real Madrid
+13-02-2026,Elche,0 - 0,Osasuna
+06-02-2026,Celta,1 - 2,Osasuna
+31-01-2026,Osasuna,2 - 2,Villarreal
+24-01-2026,Vallecano,1 - 3,Osasuna
+17-01-2026,Osasuna,3 - 2,Oviedo
+10-01-2026,Girona,1 - 0,Osasuna
+03-01-2026,Osasuna,1 - 1,Athletic Club
+20-12-2025,Osasuna,3 - 0,Alaves
+13-12-2025,FC Barcelona,2 - 0,Osasuna
+08-12-2025,Osasuna,2 - 0,Levante
+29-11-2025,Mallorca,2 - 2,Osasuna
+22-11-2025,Osasuna,1 - 3,Sociedad
+08-11-2025,Sevilla,1 - 0,Osasuna
+03-11-2025,Oviedo,0 - 0,Osasuna
+26-10-2025,Osasuna,2 - 3,Celta
+18-10-2025,Ath Madrid,1 - 0,Osasuna
+03-10-2025,Osasuna,2 - 1,Getafe
+28-09-2025,Betis,2 - 0,Osasuna
+25-09-2025,Osasuna,1 - 1,Elche
+20-09-2025,Villarreal,2 - 1,Osasuna
+14-09-2025,Osasuna,2 - 0,Vallecano
+31-08-2025,Espanol,1 - 0,Osasuna
+24-08-2025,Osasuna,1 - 0,Valencia
+19-08-2025,Real Madrid,1 - 0,Osasuna
+21-03-2026,Levante,4 - 2,Oviedo
+14-03-2026,Oviedo,1 - 0,Valencia
+09-03-2026,Espanol,1 - 1,Oviedo
+04-03-2026,Vallecano,3 - 0,Oviedo
+28-02-2026,Oviedo,0 - 1,Ath Madrid
+21-02-2026,Sociedad,3 - 3,Oviedo
+15-02-2026,Oviedo,1 - 2,Athletic Club
+31-01-2026,Oviedo,1 - 0,Girona
+25-01-2026,FC Barcelona,3 - 0,Oviedo
+17-01-2026,Osasuna,3 - 2,Oviedo
+10-01-2026,Oviedo,1 - 1,Betis
+04-01-2026,Alaves,1 - 1,Oviedo
+20-12-2025,Oviedo,0 - 0,Celta
+14-12-2025,Sevilla,4 - 0,Oviedo
+05-12-2025,Oviedo,0 - 0,Mallorca
+29-11-2025,Ath Madrid,2 - 0,Oviedo
+23-11-2025,Oviedo,0 - 0,Vallecano
+09-11-2025,Athletic Club,1 - 0,Oviedo
+03-11-2025,Oviedo,0 - 0,Osasuna
+25-10-2025,Girona,3 - 3,Oviedo
+17-10-2025,Oviedo,0 - 2,Espanol
+04-10-2025,Oviedo,0 - 2,Levante
+30-09-2025,Valencia,1 - 2,Oviedo
+25-09-2025,Oviedo,1 - 3,FC Barcelona
+21-09-2025,Elche,1 - 0,Oviedo
+13-09-2025,Getafe,2 - 0,Oviedo
+30-08-2025,Oviedo,1 - 0,Sociedad
+24-08-2025,Oviedo,0 - 3,Real Madrid
+15-08-2025,Villarreal,2 - 0,Oviedo
+22-03-2026,Real Madrid,3 - 2,Ath Madrid
+14-03-2026,Real Madrid,4 - 1,Elche
+06-03-2026,Celta,1 - 2,Real Madrid
+02-03-2026,Real Madrid,0 - 1,Getafe
+21-02-2026,Osasuna,2 - 1,Real Madrid
+14-02-2026,Real Madrid,4 - 1,Sociedad
+08-02-2026,Valencia,0 - 2,Real Madrid
+01-02-2026,Real Madrid,2 - 1,Vallecano
+24-01-2026,Villarreal,0 - 2,Real Madrid
+17-01-2026,Real Madrid,2 - 0,Levante
+04-01-2026,Real Madrid,5 - 1,Betis
+20-12-2025,Real Madrid,2 - 0,Sevilla
+14-12-2025,Alaves,1 - 2,Real Madrid
+07-12-2025,Real Madrid,0 - 2,Celta
+03-12-2025,Athletic Club,0 - 3,Real Madrid
+30-11-2025,Girona,1 - 1,Real Madrid
+23-11-2025,Elche,2 - 2,Real Madrid
+09-11-2025,Vallecano,0 - 0,Real Madrid
+01-11-2025,Real Madrid,4 - 0,Valencia
+26-10-2025,Real Madrid,2 - 1,FC Barcelona
+19-10-2025,Getafe,0 - 1,Real Madrid
+04-10-2025,Real Madrid,3 - 1,Villarreal
+27-09-2025,Ath Madrid,5 - 2,Real Madrid
+23-09-2025,Levante,1 - 4,Real Madrid
+20-09-2025,Real Madrid,2 - 0,Espanol
+13-09-2025,Sociedad,1 - 2,Real Madrid
+30-08-2025,Real Madrid,2 - 1,Mallorca
+24-08-2025,Oviedo,0 - 3,Real Madrid
+19-08-2025,Real Madrid,1 - 0,Osasuna
+21-03-2026,Sevilla,0 - 2,Valencia
+15-03-2026,FC Barcelona,5 - 2,Sevilla
+08-03-2026,Sevilla,1 - 1,Vallecano
+01-03-2026,Betis,2 - 2,Sevilla
+22-02-2026,Getafe,0 - 1,Sevilla
+14-02-2026,Sevilla,1 - 1,Alaves
+08-02-2026,Sevilla,1 - 1,Girona
+02-02-2026,Mallorca,4 - 1,Sevilla
+24-01-2026,Sevilla,2 - 1,Athletic Club
+19-01-2026,Elche,2 - 2,Sevilla
+12-01-2026,Sevilla,0 - 1,Celta
+04-01-2026,Sevilla,0 - 3,Levante
+20-12-2025,Real Madrid,2 - 0,Sevilla
+14-12-2025,Sevilla,4 - 0,Oviedo
+07-12-2025,Valencia,1 - 1,Sevilla
+30-11-2025,Sevilla,0 - 2,Betis
+24-11-2025,Espanol,2 - 1,Sevilla
+08-11-2025,Sevilla,1 - 0,Osasuna
+01-11-2025,Ath Madrid,3 - 0,Sevilla
+24-10-2025,Sociedad,2 - 1,Sevilla
+18-10-2025,Sevilla,1 - 3,Mallorca
+05-10-2025,Sevilla,4 - 1,FC Barcelona
+28-09-2025,Vallecano,0 - 1,Sevilla
+23-09-2025,Sevilla,1 - 2,Villarreal
+20-09-2025,Alaves,1 - 2,Sevilla
+12-09-2025,Sevilla,2 - 2,Elche
+30-08-2025,Girona,0 - 2,Sevilla
+25-08-2025,Sevilla,1 - 2,Getafe
+17-08-2025,Athletic Club,3 - 2,Sevilla
+20-03-2026,Villarreal,3 - 1,Sociedad
+15-03-2026,Sociedad,3 - 1,Osasuna
+07-03-2026,Ath Madrid,3 - 2,Sociedad
+28-02-2026,Mallorca,0 - 1,Sociedad
+21-02-2026,Sociedad,3 - 3,Oviedo
+14-02-2026,Real Madrid,4 - 1,Sociedad
+07-02-2026,Sociedad,3 - 1,Elche
+01-02-2026,Athletic Club,1 - 1,Sociedad
+25-01-2026,Sociedad,3 - 1,Celta
+18-01-2026,Sociedad,2 - 1,FC Barcelona
+09-01-2026,Getafe,1 - 2,Sociedad
+04-01-2026,Sociedad,1 - 1,Ath Madrid
+20-12-2025,Levante,1 - 1,Sociedad
+12-12-2025,Sociedad,1 - 2,Girona
+06-12-2025,Alaves,1 - 0,Sociedad
+30-11-2025,Sociedad,2 - 3,Villarreal
+22-11-2025,Osasuna,1 - 3,Sociedad
+07-11-2025,Elche,1 - 1,Sociedad
+01-11-2025,Sociedad,3 - 2,Athletic Club
+24-10-2025,Sociedad,2 - 1,Sevilla
+19-10-2025,Celta,1 - 1,Sociedad
+05-10-2025,Sociedad,0 - 1,Vallecano
+28-09-2025,FC Barcelona,2 - 1,Sociedad
+24-09-2025,Sociedad,1 - 0,Mallorca
+19-09-2025,Betis,3 - 1,Sociedad
+13-09-2025,Sociedad,1 - 2,Real Madrid
+30-08-2025,Oviedo,1 - 0,Sociedad
+24-08-2025,Sociedad,2 - 2,Espanol
+16-08-2025,Valencia,1 - 1,Sociedad
+21-03-2026,Sevilla,0 - 2,Valencia
+14-03-2026,Oviedo,1 - 0,Valencia
+08-03-2026,Valencia,3 - 2,Alaves
+01-03-2026,Valencia,1 - 0,Osasuna
+22-02-2026,Villarreal,2 - 1,Valencia
+15-02-2026,Levante,0 - 2,Valencia
+08-02-2026,Valencia,0 - 2,Real Madrid
+01-02-2026,Betis,2 - 1,Valencia
+24-01-2026,Valencia,3 - 2,Espanol
+18-01-2026,Getafe,0 - 1,Valencia
+10-01-2026,Valencia,1 - 1,Elche
+03-01-2026,Celta,4 - 1,Valencia
+19-12-2025,Valencia,1 - 1,Mallorca
+13-12-2025,Ath Madrid,2 - 1,Valencia
+07-12-2025,Valencia,1 - 1,Sevilla
+01-12-2025,Vallecano,1 - 1,Valencia
+21-11-2025,Valencia,1 - 0,Levante
+09-11-2025,Valencia,1 - 1,Betis
+01-11-2025,Real Madrid,4 - 0,Valencia
+25-10-2025,Valencia,0 - 2,Villarreal
+20-10-2025,Alaves,0 - 0,Valencia
+04-10-2025,Girona,2 - 1,Valencia
+30-09-2025,Valencia,1 - 2,Oviedo
+23-09-2025,Espanol,2 - 2,Valencia
+20-09-2025,Valencia,2 - 0,Athletic Club
+14-09-2025,FC Barcelona,6 - 0,Valencia
+29-08-2025,Valencia,3 - 0,Getafe
+24-08-2025,Osasuna,1 - 0,Valencia
+16-08-2025,Valencia,1 - 1,Sociedad
+22-03-2026,FC Barcelona,1 - 0,Vallecano
+16-03-2026,Vallecano,1 - 1,Levante
+08-03-2026,Sevilla,1 - 1,Vallecano
+04-03-2026,Vallecano,3 - 0,Oviedo
+28-02-2026,Vallecano,1 - 1,Athletic Club
+21-02-2026,Betis,1 - 1,Vallecano
+15-02-2026,Vallecano,3 - 0,Ath Madrid
+01-02-2026,Real Madrid,2 - 1,Vallecano
+24-01-2026,Vallecano,1 - 3,Osasuna
+18-01-2026,Celta,3 - 0,Vallecano
+11-01-2026,Vallecano,2 - 1,Mallorca
+02-01-2026,Vallecano,1 - 1,Getafe
+21-12-2025,Elche,4 - 0,Vallecano
+15-12-2025,Vallecano,0 - 0,Betis
+07-12-2025,Espanol,1 - 0,Vallecano
+01-12-2025,Vallecano,1 - 1,Valencia
+23-11-2025,Oviedo,0 - 0,Vallecano
+09-11-2025,Vallecano,0 - 0,Real Madrid
+01-11-2025,Villarreal,4 - 0,Vallecano
+26-10-2025,Vallecano,1 - 0,Alaves
+19-10-2025,Levante,0 - 3,Vallecano
+05-10-2025,Sociedad,0 - 1,Vallecano
+28-09-2025,Vallecano,0 - 1,Sevilla
+24-09-2025,Ath Madrid,3 - 2,Vallecano
+21-09-2025,Vallecano,1 - 1,Celta
+14-09-2025,Osasuna,2 - 0,Vallecano
+31-08-2025,Vallecano,1 - 1,FC Barcelona
+25-08-2025,Athletic Club,1 - 0,Vallecano
+15-08-2025,Girona,1 - 3,Vallecano
+20-03-2026,Villarreal,3 - 1,Sociedad
+13-03-2026,Alaves,1 - 1,Villarreal
+08-03-2026,Villarreal,2 - 1,Elche
+28-02-2026,FC Barcelona,4 - 1,Villarreal
+22-02-2026,Villarreal,2 - 1,Valencia
+18-02-2026,Levante,0 - 1,Villarreal
+14-02-2026,Getafe,2 - 1,Villarreal
+09-02-2026,Villarreal,4 - 1,Espanol
+31-01-2026,Osasuna,2 - 2,Villarreal
+24-01-2026,Villarreal,0 - 2,Real Madrid
+17-01-2026,Betis,2 - 0,Villarreal
+10-01-2026,Villarreal,3 - 1,Alaves
+03-01-2026,Elche,1 - 3,Villarreal
+21-12-2025,Villarreal,0 - 2,FC Barcelona
+06-12-2025,Villarreal,2 - 0,Getafe
+30-11-2025,Sociedad,2 - 3,Villarreal
+22-11-2025,Villarreal,2 - 1,Mallorca
+08-11-2025,Espanol,0 - 2,Villarreal
+01-11-2025,Villarreal,4 - 0,Vallecano
+25-10-2025,Valencia,0 - 2,Villarreal
+18-10-2025,Villarreal,2 - 2,Betis
+04-10-2025,Real Madrid,3 - 1,Villarreal
+27-09-2025,Villarreal,1 - 0,Athletic Club
+23-09-2025,Sevilla,1 - 2,Villarreal
+20-09-2025,Villarreal,2 - 1,Osasuna
+13-09-2025,Ath Madrid,2 - 0,Villarreal
+31-08-2025,Celta,1 - 1,Villarreal
+24-08-2025,Villarreal,5 - 0,Girona
+15-08-2025,Villarreal,2 - 0,Oviedo
 14-03-2026,Arsenal,2 - 0,Everton
 04-03-2026,Brighton,0 - 1,Arsenal
 01-03-2026,Arsenal,2 - 1,Chelsea

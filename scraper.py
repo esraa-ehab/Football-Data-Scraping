@@ -3,44 +3,48 @@ from selenium import webdriver
 from selenium.webdriver.support.ui import Select
 from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.common.by import By
-import time
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.support import expected_conditions as EC
+
 
 website = 'https://www.adamchoi.co.uk/teamgoals/detailed'
-path = '/Users/user/Documents/Selenium/chromedriver-mac-x64/chromedriver'
+chromedriver_path = '/Users/user/Documents/Selenium/chromedriver-mac-x64/chromedriver'
+countries = ['Spain', 'England']
 
-service = Service(executable_path=path)
-
+service = Service(executable_path=chromedriver_path)
 driver = webdriver.Chrome(service=service)
 driver.get(website)
+
+wait = WebDriverWait(driver, 10)  
 
 all_matches_btn = driver.find_element(By.XPATH, '//label[@analytics-event="All matches"]')
 all_matches_btn.click()
 
-date = []
-home_team = []
-score = []
-away_team = []
+rows = []
 
-matches = driver.find_elements(By.TAG_NAME, "tr")
+for country in countries:
+    dropdown = Select(driver.find_element(By.ID, "country"))
+    dropdown.select_by_visible_text(country)
 
-for match in matches:
-    try:
-        date.append(match.find_element(By.XPATH,"./td[1]").text)
-        home_team.append(match.find_element(By.XPATH,"./td[3]").text)
-        score.append(match.find_element(By.XPATH,"./td[4]").text)
-        away_team.append(match.find_element(By.XPATH,"./td[5]").text)
-    except:
-        continue
+    wait.until(EC.presence_of_element_located((By.XPATH, "//table//tr[td]")))
 
-data_dict = {
-    'date' : date,
-    'home_team': home_team,
-    'score' : score,
-    'away_team' : away_team
-}
+    wait.until(lambda d: len(d.find_elements(By.XPATH, "//table//tr[td]")) > 0)
 
-df = pd.DataFrame(data_dict)
+    matches = driver.find_elements(By.XPATH, "//table//tr[td]")
+
+    for match in matches:
+        cells = match.find_elements(By.TAG_NAME, "td")
+        if len(cells) >= 5:
+            rows.append([
+                cells[0].text,  
+                cells[2].text,  
+                cells[3].text,  
+                cells[4].text  
+            ])
+
+df = pd.DataFrame(rows, columns=['date', 'home_team', 'score', 'away_team'])
 df.to_csv("football_data.csv", index=False)
 print(df)
 
 input("Press Enter to close")
+driver.quit()
